@@ -1,6 +1,8 @@
 ---
 name: artifact-host
 description: Share what you make with people through an artifact-host on their Tailscale tailnet. Publish an HTML page or report, a doc that people edit and comment on, a spreadsheet, a canvas board or a live dashboard, and give the person a link that opens in a browser. Use it whenever you would hand a person a local file path, a localhost link or a long chat message for something they should open, read, edit together or review. Use it also for progress pages on long tasks, for plans that need a person's review, and to find or read what others published. Needs the host's URL in ARTIFACT_HOST_URL.
+metadata:
+  version: "0.1.0"
 ---
 
 # artifact-host: give people a link, not a file path
